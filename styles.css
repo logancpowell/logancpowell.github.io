@@ -2,4 +2,9 @@
 
 * {
   box-sizing: border-box;
+  background-color: teal;
+}
+
+h1 {
+  color: blue;
 }
